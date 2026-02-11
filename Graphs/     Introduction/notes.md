@@ -24,7 +24,7 @@ Edges have direction. Example: 0 → 1
 ## Example Graph
 
 0 —— 1
-| |
+|    |
 2 —— 3
 
 
@@ -55,14 +55,14 @@ Else → 0
 
 If:
 
-0 → 1
+0 → 1 ,
 2 → 1
 
 Indegree of 1 = 2
 
 If:
 
-1 → 3
+1 → 3 ,
 1 → 4
 
 Outdegree of 1 = 2
